@@ -3,7 +3,7 @@ for Image Compression" (submitted).
 
 # Dataset 
 
-The dataset is name TexTexGD: a geometric distortion database for image compression.
+The dataset is named TexTexGD: a geometric distortion database for image compression.
 
 Download link is available [here](https://drive.google.com/file/d/1R0jN3YAN0B-2ou6cFuHGr_ZPwiqIOWNv/view?usp=sharing).
 

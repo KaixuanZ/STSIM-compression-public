@@ -3,7 +3,7 @@ for Image Compression" (submitted).
 
 # Dataset 
 
-Dataset is available [here](https://drive.google.com/file/d/1PQ24hZeLnK0UC1AS9aDGX92PBZa1dLkL/view?usp=sharing).
+Dataset is available [here](https://drive.google.com/file/d/1aKLMRVRcWkvm1yO_IWUoj-Tfu_gmFL2y/view?usp=sharing).
 
 Download it to your computer and change the variable `dataset_dir` in `config/test_STSIM_global.cfg`
 

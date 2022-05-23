@@ -5,7 +5,7 @@ for Image Compression" (submitted).
 
 The dataset is named TexTexGD: a geometric distortion database for image compression.
 
-Download link is available [here](https://drive.google.com/file/d/1R0jN3YAN0B-2ou6cFuHGr_ZPwiqIOWNv/view?usp=sharing).
+Download link is available [here](https://drive.google.com/drive/folders/1n3AmsrKKiw4FJ-tpLS5m_0vO4IfUe0w9?usp=sharing).
 
 Download it to your computer and change the variable `dataset_dir` in `config/test_STSIM_global.cfg`
 

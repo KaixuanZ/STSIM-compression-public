@@ -1,6 +1,10 @@
 This repository is our paper "Training and Testing Texture Similarity Metrics
 for Image Compression" (submitted).
 
+# Environment
+
+Pytorch version 1.6 or 1.7
+
 # Dataset 
 
 The dataset is named TexTexGD: a geometric distortion database for image compression.

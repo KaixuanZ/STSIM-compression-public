@@ -1,4 +1,4 @@
-# Training and Testing Texture Similarity Metrics for Structurally Lossless Compression [[Paper]]()
+# Training and Testing Texture Similarity Metrics for Structurally Lossless Compression [[Paper]](https://ieeexplore.ieee.org/abstract/document/10438389)
 
 Pytorch version of STSIM metrics. This repository includes code for loading dataset, and the metric training/testing.
 

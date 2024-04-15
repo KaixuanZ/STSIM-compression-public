@@ -18,7 +18,7 @@ The dataset is named TextureGD: a texture geometric distortion database for imag
 Download link is available here: 
 [Google Drive](https://drive.google.com/file/d/1HKp1QdwDi_vWDhrdzKlV4gMXr9KqLJvD/view?usp=sharing)
 
-The dataset includes 22 textures images, their distortions, and annotations from subjects. Only 20 textures are used in the [paper]().
+The dataset includes 22 textures images, their distortions, and annotations from subjects. Only 20 textures are used in the [[Paper]](https://ieeexplore.ieee.org/abstract/document/10438389).
 
 Download the dataset to your computer and change the variable `dataset_dir` in `config/train_STSIM_global.cfg`
 
@@ -32,6 +32,6 @@ Testing the STSIM metric `python test_global.py --n_textures 22`
 
 If you want to reproduce the results in the paper, you can run `./train_global.sh`. The script trains STSIM on the dataset with 5-fold cross validation.
 
-Scripts `./test_global.sh` shows the test results of the metrics with highest performance on evaluation set. The results should be close to the numbers in Table VI in the [paper]().
+Scripts `./test_global.sh` shows the test results of the metrics with highest performance on evaluation set. The results should be close to the numbers in Table VI in the [[Paper]](https://ieeexplore.ieee.org/abstract/document/10438389).
 
 Remember to change the variable `dataset_dir` in the correspondent configuration files.
